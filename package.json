@@ -1,0 +1,19 @@
+{
+  "name": "grinds-my-gears",
+  "version": "1.0.0",
+  "description": "Full stack MERN application for complaining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCDSandwichMan/grinds-my-gears.git"
+  },
+  "author": "PCDSandwichMAn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PCDSandwichMan/grinds-my-gears/issues"
+  },
+  "homepage": "https://github.com/PCDSandwichMan/grinds-my-gears#readme"
+}
